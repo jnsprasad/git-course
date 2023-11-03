@@ -1,2 +1,5 @@
 Get the user data.
 Process the data
+
+
+Add feature - create an avatar for user
